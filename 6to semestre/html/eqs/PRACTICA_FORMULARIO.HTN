@@ -1,0 +1,24 @@
+<html>
+<head><title>REGISTRO</TITLE><HEAD>
+<body>
+<CENTER><h3>Colegio de bachilleres. plantel 26</h3>
+<h4>formulario de registro></center>
+<hr>
+por favor, conteste el siguiente formulario
+<br>
+<FORM ACTION-"MAILTO:DIRECCION_DE_EMAILO" METHOO="POST" ENCTYPE="TEXT/PLAIN"
+NOMBRE: <BR>
+<INPUT TYPE="TEXT" NAME="DIRECCION">
+<BR>
+TELEFONO:<BR>
+<INPUT TYPE="TEXT" NAME="TELEFONO"
+<BR>
+COMENTARIOS:<BR>
+<TEXTAREA NAME="COMENTARIO" RWOWS="7" COLS="40"> </TEXTAREA>
+<INPUT TYPE="SUBMIT" VALUE="ENVIAR DATOS">
+<INPUT TYPE="RESET" VALUE="BORRAR DATOS">
+
+</FORM>
+</body>
+
+</html>
